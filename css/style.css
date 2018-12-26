@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     font-family: 'Varela Round';
 }
@@ -38,4 +41,18 @@ body{
     width: 100px;
     text-align: right;
     display: inline-block;
+}
+#bg-footer{
+    background: bottom url("../images/demo-image-02.jpg");
+    background-size: 100%;
+}
+.color-submit{
+    background-color: #64a19d;
+
+}
+.avion{
+    width: 4%;
+}
+.font-sub{
+    font-size: 13px;
 }
