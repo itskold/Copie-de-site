@@ -1,5 +1,17 @@
-#bg-master{
-    background: no-repeat url("../images/bg-masthead.jpg")
+body{
+    font-family: 'Ubuntu', sans-serif;
 }
-#bg-master nav div{
+#bg-master{
+    background:  url("../images/bg-masthead.jpg");
+    background-size: 100%;
+}
+#bg-master h1{
+    font-size: 130px;
+}
+.bouton-banner{
+    font-size: 12px;
+    color: white;
+}
+#bg-master section{
+    padding: 150px 0;
 }
