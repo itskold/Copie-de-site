@@ -1,5 +1,5 @@
 body{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Varela Round';
 }
 #bg-master{
     background:  url("../images/bg-masthead.jpg");
@@ -7,11 +7,20 @@ body{
 }
 #bg-master h1{
     font-size: 130px;
+
 }
+
 .bouton-banner{
     font-size: 12px;
     color: white;
+    background-color: #64a19d;
 }
 #bg-master section{
     padding: 150px 0;
+}
+#build{
+    background: linear-gradient(rgb(0, 0, 0),rgb(65, 64, 64))
+}
+#build img{
+    width: 90%;
 }
