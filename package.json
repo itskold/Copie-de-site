@@ -1,0 +1,22 @@
+{
+  "name": "cs6-simple-recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itskold/Copie-de-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itskold/Copie-de-site/issues"
+  },
+  "homepage": "https://github.com/itskold/Copie-de-site#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
