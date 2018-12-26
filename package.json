@@ -16,7 +16,6 @@
   },
   "homepage": "https://github.com/itskold/Copie-de-site#readme",
   "dependencies": {
-    "boostrap": "^2.0.0",
     "bootstrap": "^4.2.1"
   },
   "devDependencies": {},
