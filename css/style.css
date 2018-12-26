@@ -24,3 +24,18 @@ body{
 #build img{
     width: 90%;
 }
+#shoreline .row .col-sm-4{
+    border-left-color: rgb(100, 161, 157);
+    border-left-style: solid;
+    border-left-width: 8px;
+}
+.bg-noir{
+    background:black;
+}
+.color-bleu{
+    background-color: #64a19d;
+    height: 3px;
+    width: 100px;
+    text-align: right;
+    display: inline-block;
+}
